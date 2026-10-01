@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi I am Hitesh Goyal
 🎓 I'm currently studying Artificial Intelligence<br><br>🐍 Learning Python for programming, data analysis, and AI<br><br>🗄️ Learning SQL for working with databases and extracting insights<br><br>📊 Learning Excel for data analysis and visualization<br><br>📈 Learning Power BI for dashboards and business intelligence<br><br>📐 Building a strong foundation in Statistics<br><br>🤖 Exploring Artificial Intelligence & Machine Learning<br><br>💡 Interested in turning data into meaningful insights<br><br>📚 Continuously learning and improving my technical skills
 
 
